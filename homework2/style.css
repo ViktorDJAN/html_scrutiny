@@ -4,14 +4,20 @@
     box-sizing: border-box;
 }
 body{
+<<<<<<< HEAD
     
+=======
+>>>>>>> 0dba12a871250ca53ec94de517d81947cf2d5dc3
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Raleway', sans-serif;
 }
 
 .header{
+<<<<<<< HEAD
     min-height: 74px;
+=======
+>>>>>>> 0dba12a871250ca53ec94de517d81947cf2d5dc3
     padding-top:28px;
     padding-bottom:20px;
     background-color:#222;
@@ -59,11 +65,15 @@ body{
 }
 
 .main1_left{
+<<<<<<< HEAD
     width: 100%;
 }
 
 .left_icon{
     width: 99%;
+=======
+    width: 50%;
+>>>>>>> 0dba12a871250ca53ec94de517d81947cf2d5dc3
 }
 .main1_right{ 
     align-items:center; 
@@ -129,7 +139,22 @@ line-height: normal;
     position:absolute;
     filter:brightness(50%)
 }
+<<<<<<< HEAD
   
+=======
+
+
+.item1{
+
+}
+.item2{
+    
+}
+
+.item3{
+    
+}
+>>>>>>> 0dba12a871250ca53ec94de517d81947cf2d5dc3
 .item4long{
     width: 1140px;
     height: 180px;
@@ -261,6 +286,20 @@ line-height: normal;
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 0dba12a871250ca53ec94de517d81947cf2d5dc3
 .joint_2_pictures{
     display:grid;
     justify-content:center;
@@ -301,9 +340,12 @@ padding-right: 39px;
 .center{
     display: flex;
     justify-content: center;
+<<<<<<< HEAD
 }
 
 @media (min-width:764px)and(max-width:1024px){
 
     
+=======
+>>>>>>> 0dba12a871250ca53ec94de517d81947cf2d5dc3
 }
